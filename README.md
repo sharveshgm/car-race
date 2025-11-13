@@ -5,7 +5,7 @@
 
 ***
 
-### Top: Imports, Author Block
+### Imports
 
 ```python
 import random            # Lets us pick random numbers (for enemy car positions)
